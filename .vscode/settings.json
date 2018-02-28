@@ -2,5 +2,6 @@
     "less.compile": {
         "compress":  true,
         "sourceMap": true
+
     }
 }
