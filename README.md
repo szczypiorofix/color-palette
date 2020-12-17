@@ -6,7 +6,7 @@ Material design color palette in LESS
 Material design color palette codes, written in LESS.
 You can use them in your application, or on your website or whatever you want.
 
-All color codes came from [material.io](https://material.io/guidelines/style/color.html#color-color-tool)
+All color codes came from [material.io](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
 
 
 ## License
